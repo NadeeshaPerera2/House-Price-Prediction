@@ -42,7 +42,8 @@ Clone the repository
 
 bash
 
-git clone https://github.com/YourUsername/house-price-fastapi.git
+git clone https://github.com/NadeeshaPerera2/House-Price-Prediction
 
 cd house-price-fastapi
+
 
